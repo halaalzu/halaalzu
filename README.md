@@ -10,6 +10,7 @@ I enjoy learning how complex systems come together — from sensors and hardware
 
 **Languages**
 - Python
+- C
 - C++
 - HTML/CSS
 - MATLAB
